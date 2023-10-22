@@ -29,4 +29,9 @@ struct DataStructures1 {
         primeNumbers.remove(2)
         print(primeNumbers)
     }
+    
+    struct Point {
+        var x: Double
+        var y: Double
+    }
 }
