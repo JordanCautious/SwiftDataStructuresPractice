@@ -11,6 +11,7 @@
 		ECF739DE2AE522BD001AA500 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF739DD2AE522BD001AA500 /* ContentView.swift */; };
 		ECF739E02AE522C0001AA500 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECF739DF2AE522C0001AA500 /* Assets.xcassets */; };
 		ECF739E32AE522C0001AA500 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECF739E22AE522C0001AA500 /* Preview Assets.xcassets */; };
+		ECF739EB2AE52345001AA500 /* DataStructures1.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF739EA2AE52345001AA500 /* DataStructures1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		ECF739DF2AE522C0001AA500 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECF739E22AE522C0001AA500 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ECF739E42AE522C0001AA500 /* SwiftDataStructuresPractice.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftDataStructuresPractice.entitlements; sourceTree = "<group>"; };
+		ECF739EA2AE52345001AA500 /* DataStructures1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStructures1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				ECF739DB2AE522BD001AA500 /* SwiftDataStructuresPracticeApp.swift */,
 				ECF739DD2AE522BD001AA500 /* ContentView.swift */,
+				ECF739EA2AE52345001AA500 /* DataStructures1.swift */,
 				ECF739DF2AE522C0001AA500 /* Assets.xcassets */,
 				ECF739E42AE522C0001AA500 /* SwiftDataStructuresPractice.entitlements */,
 				ECF739E12AE522C0001AA500 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECF739EB2AE52345001AA500 /* DataStructures1.swift in Sources */,
 				ECF739DE2AE522BD001AA500 /* ContentView.swift in Sources */,
 				ECF739DC2AE522BD001AA500 /* SwiftDataStructuresPracticeApp.swift in Sources */,
 			);

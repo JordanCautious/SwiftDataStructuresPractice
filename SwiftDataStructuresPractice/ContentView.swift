@@ -8,14 +8,20 @@
 import SwiftUI
 
 struct ContentView: View {
+    let ds = DataStructures1()
+    
     var body: some View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            Button("Print Data Structures") {
+                ds.swiftArrays()
+                ds.swiftDictionaries()
+            }
         }
-        .padding()
+        .frame(width: 480, height: 240)
     }
 }
 
